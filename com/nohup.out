@@ -1,0 +1,33 @@
+Traceback (most recent call last):
+  File "/root/home/project/stock/com/model/model_sh50_MA.py", line 14, in <module>
+    from com.data.interface_Rice import interface_Rice
+ModuleNotFoundError: No module named 'com.data.interface_Rice'
+Traceback (most recent call last):
+  File "/root/home/project/stock/com/model/model_sh50_Bull.py", line 14, in <module>
+    from com.data.interface_Rice import interface_Rice
+ModuleNotFoundError: No module named 'com.data.interface_Rice'
+Traceback (most recent call last):
+  File "/root/home/project/stock/bin/future.py", line 12, in <module>
+    from com.model.model_future_detect_1m import model_future_detect_1m
+  File "/root/home/project/stock/com/model/model_future_detect_1m.py", line 15, in <module>
+    from com.model.model_future_detect_multi_ctp import model_future_detect_multi
+  File "/root/home/project/stock/com/model/model_future_detect_multi_ctp.py", line 21, in <module>
+    from com.ctp.interface_pyctp import interface_pyctp, BaseInfo, ProcessMap
+  File "/root/home/project/stock/com/ctp/__init__.py", line 4, in <module>
+    import PyCTP
+ImportError: libthostmduserapi.so: cannot open shared object file: No such file or directory
+Traceback (most recent call last):
+  File "/root/home/project/stock/bin/future.py", line 12, in <module>
+    from com.model.model_future_detect_1m import model_future_detect_1m
+  File "/root/home/project/stock/com/model/model_future_detect_1m.py", line 15, in <module>
+    from com.model.model_future_detect_multi_ctp import model_future_detect_multi
+  File "/root/home/project/stock/com/model/model_future_detect_multi_ctp.py", line 21, in <module>
+    from com.ctp.interface_pyctp import interface_pyctp, BaseInfo, ProcessMap
+  File "/root/home/project/stock/com/ctp/__init__.py", line 4, in <module>
+    import PyCTP
+ImportError: libthostmduserapi.so: cannot open shared object file: No such file or directory
+python: can't open file 'bin/future.py': [Errno 2] No such file or directory
+[2018-12-05 13:31:26] [INFO] ('current status: vol - pos - status:', 0, 0, 0)
+[2018-12-05 13:31:26] [INFO] ('current status: vol - pos - status:', 0, 0, 0)
+[2018-12-05 13:31:26] [INFO] ('etf50 - ma stage start', '510050_XSHG_30m')
+[2018-12-05 13:31:26] [INFO] ('etf50 - bull_trend stage start', '510050-XSHG_15_15_0.5_1.75')

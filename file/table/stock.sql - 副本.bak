@@ -1,0 +1,49 @@
+/*
+Navicat SQL Server Data Transfer
+
+Source Server         : bc_online
+Source Server Version : 140000
+Source Host           : 116.62.132.182:1433
+Source Database       : scrapy
+Source Schema         : dbo
+
+Target Server Type    : SQL Server
+Target Server Version : 140000
+File Encoding         : 65001
+
+Date: 2018-03-06 18:28:50
+*/
+
+
+-- ----------------------------
+-- Table structure for history
+-- ----------------------------
+DROP TABLE [dbo].[history]
+GO
+CREATE TABLE [dbo].[history] (
+[ID] int NOT NULL IDENTITY(1,1) NOT FOR REPLICATION ,
+[code] varchar(20) NULL ,
+[Name] nvarchar(20) NULL ,
+[area] varchar(10) NULL ,
+[date] datetime NULL 
+[open] real null,
+[high] real null,
+[low] real null,
+[close] real null,
+[volumn] int null
+)
+
+
+GO
+DBCC CHECKIDENT(N'[dbo].[history]', RESEED, 399055741)
+GO
+
+-- ----------------------------
+-- Indexes structure for table history
+-- ----------------------------
+
+-- ----------------------------
+-- Primary Key structure for table history
+-- ----------------------------
+ALTER TABLE [dbo].[history] ADD PRIMARY KEY ([ID]) WITH (FILLFACTOR=90)
+GO

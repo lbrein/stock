@@ -1,0 +1,25 @@
+{
+    "long": {
+        "index": ["IH","IC","IF"],
+        "metal_SM": ["SM","SF"],
+        "metal_CU": ["CU","ZN"],
+        "metal_other": ["AL","NI","PB","SN"],
+        "ch_SC":["SC","FU","BU"],
+        "ch_J": ["J","RB","HC","I","JM"],
+        "ch_L": ["L","PP","MA","V","EG"],
+        "ch_TA": ["TA","SP"],
+        "other": ["ZC","FG"]
+    },
+    "short": {
+        "gold": ["AU", "AG"],
+        "agri_A":["A","B","RM","M"],
+        "agri_C": ["C","CS"],
+        "agri_Y": ["Y","P","OI"],
+        "agri_F": ["CJ","AP"],
+        "other": ["RU"]
+    },
+
+    "banCodeList": ["PB", "SN", "JM", "SP"],
+    "longCodeList": ["CU", "A", "B", "CS", "JD", "AP", "L", "RM", "EG", "M", "ZC", "RU", "SC"], 
+    "shortCodeList":["ZN", "I", "RB", "BU",  "FG", "V", "SR", "AU"]
+}

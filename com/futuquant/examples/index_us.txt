@@ -1,0 +1,223 @@
+ code name
+0 US..IXIC 纳斯达克综合指数
+1 US..DJI 道琼斯指数
+2 US..DJT 琼斯交通运输平均指数
+3 US..DJU 道琼斯公用事业平均指数
+4 US..DJUS 道琼斯美国指数
+5 US..DJUSAE 道琼斯美国航空航天与国防指数
+6 US..DJUSAF "Dow Jones US Delivery Services Index"
+7 US..DJUSAG "Dow Jones US Asset Managers Index"
+8 US..DJUSAI 道琼斯美国电子设备指数
+9 US..DJUSAL 道琼斯美铝指数
+10 US..DJUSAM 道琼斯美国医疗器械指数
+11 US..DJUSAP 道琼斯美国汽车零部件指数
+12 US..DJUSAR 道琼斯美国航空指数
+13 US..DJUSAS 道琼斯美国航空航天指数
+14 US..DJUSAT 道琼斯美国汽车零部件指数
+15 US..DJUSAU 道琼斯美国汽车指数
+16 US..DJUSAV 道琼斯美国媒体代理指数
+17 US..DJUSBC 道琼斯美国广播娱乐指数
+18 US..DJUSBD 道琼斯美国建筑材料及灯具指数
+19 US..DJUSBE "Dow Jones US Business Training & Employment Agencies Index"
+20 US..DJUSBK 道琼斯美国银行指数
+21 US..DJUSBM 道琼斯美国基础材料指数
+22 US..DJUSBS 道琼斯美国基础资源指数
+23 US..DJUSBT 道琼斯美国生物技术指数
+24 US..DJUSBV 道琼斯美国饮料指数
+25 US..DJUSCA 道琼斯美国赌博指数
+26 US..DJUSCC 道琼斯美国商品化学品指数
+27 US..DJUSCF 道琼斯美国服装配饰指数
+28 US..DJUSCG 道琼斯美国旅游休闲指数
+29 US..DJUSCH 道琼斯美国化学品指数
+30 US..DJUSCL 道琼斯美国煤炭指数
+31 US..DJUSCM 道琼斯美国个人产品指数
+32 US..DJUSCN 道琼斯美国建筑材料指数
+33 US..DJUSCP 道琼斯美国集装箱和包装指数
+34 US..DJUSCR 道琼斯美国计算机硬件指数
+35 US..DJUSCS 道琼斯美国专业消费者服务指数
+36 US..DJUSCT 道琼斯美国电讯设备指数
+37 US..DJUSCX 道琼斯美国特种化学品指数
+38 US..DJUSCY 道琼斯美国消费者服务指数
+39 US..DJUSDB 道琼斯美国酿酒商指数
+40 US..DJUSDN 道琼斯美国国防指数
+41 US..DJUSDR 道琼斯美国食品和药物零售商指数
+42 US..DJUSDS 道琼斯美国工业供应商指数
+43 US..DJUSDT "Dow Jones US Diversified REITs"
+44 US..DJUSDV 道琼斯美国计算机服务指数
+45 US..DJUSEC 道琼斯美国电气元件及设备指数
+46 US..DJUSEE 道琼斯美国电子电气设备指数
+47 US..DJUSEH 道琼斯美国房地产控股与发展指数
+48 US..DJUSEN 道琼斯美国石油和天然气指数
+49 US..DJUSES 道琼斯美国房地产服务指数
+50 US..DJUSEU 道琼斯美国电力指数
+51 US..DJUSFA "Dow Jones US Financial Administration Index"
+52 US..DJUSFB 道琼斯美国食品和饮料指数
+53 US..DJUSFC 道琼斯美国固定电话电讯指数
+54 US..DJUSFD 道琼斯美国食品零售商和批发商指数
+55 US..DJUSFE 道琼斯美国工业机械指数
+56 US..DJUSFH 道琼斯美国家具指数
+57 US..DJUSFI 道琼斯美国金融服务指数
+58 US..DJUSFN 道琼斯美国金融指数
+59 US..DJUSFO 道琼斯美国食品生产商指数
+60 US..DJUSFP 道琼斯美国食品指数
+61 US..DJUSFR 道琼斯美国林业与纸业指数
+62 US..DJUSFT 道琼斯美国鞋业指数
+63 US..DJUSFV 道琼斯美国金融服务综合指数
+64 US..DJUSGF 道琼斯美国通用财务指数
+65 US..DJUSGI 道琼斯美国通用工业指数
+66 US..DJUSGL "Dow Jones US Large-Cap Growth Index"
+67 US..DJUSGM "Dow Jones US Mid-Cap Growth Index"
+68 US..DJUSGR 道琼斯美国增长指数
+69 US..DJUSGS "Dow Jones US Small-Cap Growth Index"
+70 US..DJUSGT 道琼斯美国综合零售商指数
+71 US..DJUSGU 道琼斯美国天然气分布指数
+72 US..DJUSHB 道琼斯美国家居建筑指数
+73 US..DJUSHC 道琼斯美国医疗保健指数
+74 US..DJUSHD 道琼斯美国耐用家用产品指数
+75 US..DJUSHG 道琼斯美国家庭用品指数
+76 US..DJUSHI 道琼斯美国家居零售商指数
+77 US..DJUSHL "Dow Jones US Hotel & Lodging REITs Index"
+78 US..DJUSHN 道琼斯美国无保障住户产品指数
+79 US..DJUSHP 道琼斯美国医疗保健提供者指数
+80 US..DJUSHR 道琼斯美国商用车辆和卡车指数
+81 US..DJUSHV 道琼斯美国重型建筑指数
+82 US..DJUSIB 道琼斯美国保险经纪人指数
+83 US..DJUSID 道琼斯美国多元化工业指数
+84 US..DJUSIF 道琼斯美国全线保险指数
+85 US..DJUSIG 道琼斯美国工业产品与服务
+86 US..DJUSIL 道琼斯美国人寿保险指数
+87 US..DJUSIM 道琼斯美国工业金属指数
+88 US..DJUSIN 道琼斯美国工业指数
+89 US..DJUSIO 道琼斯美国工业和房地产信托指数
+90 US..DJUSIP 道琼斯美国财险保险指数
+91 US..DJUSIQ 道琼斯美国工业工程指数
+92 US..DJUSIR 道琼斯美国保险指数
+93 US..DJUSIS 道琼斯美国支持服务指数
+94 US..DJUSIT 道琼斯美国工业交通指数
+95 US..DJUSIU 道琼斯美国再保险指数
+96 US..DJUSIV 道琼斯美国商业支持服务指数
+97 US..DJUSIX 道琼斯美国非人寿保险指数
+98 US..DJUSL 道琼斯美国大盘指数
+99 US..DJUSLE 道琼斯美国休闲用品指数
+100 US..DJUSLG 道琼斯美国酒店指数
+101 US..DJUSLTR "Dow Jones US Large-Cap TR Index (EOD)"
+102 US..DJUSLW "Dow Jones US Low Cap Index"
+103 US..DJUSM "Dow Jones US Mid Cap Index"
+104 US..DJUSMC 道琼斯美国医疗保健设备及服务指数
+105 US..DJUSME 道琼斯美国媒体指数
+106 US..DJUSMF 道琼斯美国抵押贷款融资指数
+107 US..DJUSMG 道琼斯美国矿业指数
+108 US..DJUSMR 道琼斯美国抵押房地产信托指数
+109 US..DJUSMS 道琼斯美国医疗用品指数
+110 US..DJUSMT 道琼斯美国海运交通指数
+111 US..DJUSMU 道琼斯美国多功能指数
+112 US..DJUSNC 道琼斯美国消费品指数
+113 US..DJUSNF 道琼斯美国有色金属指数
+114 US..DJUSNG 道琼斯美国个人及家庭用品指数
+115 US..DJUSNS 道琼斯美国互联网指数
+116 US..DJUSOE 道琼斯美国电子办公设备指数
+117 US..DJUSOG 道琼斯美国石油和天然气生产商指数
+118 US..DJUSOI 道琼斯美国石油设备与服务指数
+119 US..DJUSOL 道琼斯美国综合油气指数
+120 US..DJUSOQ 道琼斯美国石油设备，服务与分销指数
+121 US..DJUSOS 道琼斯美国勘探与生产指数
+122 US..DJUSPB 道琼斯美国出版指数
+123 US..DJUSPC 道琼斯美国废物处理服务指数
+124 US..DJUSPG 道琼斯美国个人商品指数
+125 US..DJUSPL 道琼斯美国管道指数
+126 US..DJUSPM 道琼斯美国黄金矿业指数
+127 US..DJUSPN 道琼斯美国制药与生物技术指数
+128 US..DJUSPP 道琼斯美国纸业指数
+129 US..DJUSPR 道琼斯美国医药指数
+130 US..DJUSPT 道琼斯美国铂金与贵金属指数
+131 US..DJUSRA 道琼斯美国服装零售商指数
+132 US..DJUSRB "Dow Jones US Broadline Retailers Index"
+133 US..DJUSRD 道琼斯美国药物零售商指数
+134 US..DJUSRE "Dow Jones US Real Estate Index"
+135 US..DJUSRH 道琼斯美国房地产投资与服务指数
+136 US..DJUSRI 道琼斯美国房地产投资信托指数
+137 US..DJUSRL "Dow Jones US Retail REITs Index"
+138 US..DJUSRN "Dow Jones US Residential REITs Index"
+139 US..DJUSRP 道琼斯美国娱乐产品指数
+140 US..DJUSRQ 道琼斯美国娱乐服务指数
+141 US..DJUSRR 道琼斯美国铁路指数
+142 US..DJUSRS 道琼斯美国专业零售商指数
+143 US..DJUSRT 道琼斯美国零售指数
+144 US..DJUSRU 道琼斯美国餐馆和酒吧指数
+145 US..DJUSS "Dow Jones US Small Cap Index"
+146 US..DJUSSB 道琼斯美国投资服务公司
+147 US..DJUSSC 道琼斯美国半导体指数
+148 US..DJUSSD 道琼斯美国软饮料指数
+149 US..DJUSSF 道琼斯美国消费者金融指数
+150 US..DJUSSP 道琼斯美国专业金融指数
+151 US..DJUSSR "Dow Jones US Specialty REITs Index"
+152 US..DJUSST 道琼斯美国钢铁指数
+153 US..DJUSSV 道琼斯美国软件与计算机服务指数
+154 US..DJUSSW 道琼斯美国软件指数
+155 US..DJUSTB 道琼斯美国烟草指数
+156 US..DJUSTC 道琼斯美国高科技指数
+157 US..DJUSTK 道琼斯美国卡车指数
+158 US..DJUSTL 道琼斯美国电讯指数
+159 US..DJUSTP "Dow Jones US Top Cap Index"
+160 US..DJUSTQ 道琼斯美国技术五金设备指数
+161 US..DJUSTR 道琼斯美轮胎指数
+162 US..DJUSTS 道琼斯美国运输服务指数
+163 US..DJUSTT 道琼斯美国旅游与旅游指数
+164 US..DJUSTY 道琼斯美国玩具指数
+165 US..DJUSUO "Dow Jones US Gas"
+166 US..DJUSUT 道琼斯美国公用事业指数
+167 US..DJUSVA 道琼斯美国价值指数
+168 US..DJUSVE 道琼斯美国常规电力指数
+169 US..DJUSVL "Dow Jones US Large-Cap Value Index"
+170 US..DJUSVM "Dow Jones US Mid-Cap Value Index"
+171 US..DJUSVN 道琼斯美国酿酒商与葡萄酒指数
+172 US..DJUSVS "Dow Jones US Small-Cap Value Index"
+173 US..DJUSWC 道琼斯美国移动通信指数
+174 US..DJUSWU 道琼斯美国水资源指数
+175 US..INX 标普500指数
+176 US..NDX 纳斯达克100
+177 US..SP100 标普100指数
+178 US..SPCMI 标普完整指数
+179 US..W5000FLT "Wilshire 5000 Total Market Index"
+180 US..W5KLC "Wilshire US Large Cap"
+181 US..W5KMC "Wilshire US Mid Cap"
+182 US..W5KMICRO "Wilshire US Micro Cap"
+183 US..W5KSC "Wilshire US Small Cap"
+184 US..AEX 荷兰AEX指数
+185 US..AS51 澳大利亚指数
+186 US..ASE 希腊指数
+187 US..ATX 奥地利指数
+188 US..BEL20 比利时指数
+189 US..CAC 法国指数
+190 US..CASE 埃及指数
+191 US..CSEALL 斯里兰卡指数
+192 US..DAX 德国DAX指数
+193 US..FBMKLC 马来西亚指数
+194 US..FSSTI 新加坡指数
+195 US..FTSEMIB 意大利指数
+196 US..HEX 芬兰指数
+197 US..IBEX 西班牙指数
+198 US..IBOV 巴西指数
+199 US..ICEXI 冰岛指数
+200 US..INDEXCF 俄罗斯指数
+201 US..ISEQ 爱尔兰指数
+202 US..JCI 印尼综合指数
+203 US..KFX 丹麦指数
+204 US..kospi 韩国指数
+205 US..KSE100 巴基斯坦指数
+206 US..LUXXX 卢森堡指数
+207 US..MEXBOL 墨西哥指数
+208 US..NKY 日经225指数
+209 US..NZSE50FG 新西兰指数
+210 US..OBX 挪威指数
+211 US..OMX 瑞典OMX指数
+212 US..PCOMP 菲律宾指数
+213 US..PX 捷克指数
+214 US..SENSEX 印度孟买指数
+215 US..SET 泰国指数
+216 US..SMI 瑞士市场指数
+217 US..SPTSX 加拿大指数
+218 US..TWSE 台湾加权指数
+219 US..UKX 英国指数
+220 US..VNINDEX 越南指数
+221 US..WIG 波兰指数

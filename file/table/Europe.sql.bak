@@ -1,0 +1,50 @@
+/*
+Navicat SQL Server Data Transfer
+
+Source Server         : bc_online
+Source Server Version : 140000
+Source Host           : 116.62.132.182:1433
+Source Database       : scrapy
+Source Schema         : dbo
+
+Target Server Type    : SQL Server
+Target Server Version : 140000
+File Encoding         : 65001
+
+Date: 2018-03-06 18:28:50
+*/
+
+
+-- ----------------------------
+-- Table structure for stock
+-- ----------------------------
+DROP TABLE [dbo].[stock]
+GO
+CREATE TABLE [dbo].[stock] (
+[ID] int NOT NULL IDENTITY(1,1) NOT FOR REPLICATION ,
+[code] varchar(20) NULL ,
+[Name] nvarchar(20) int NULL ,
+[FirstHomeWin] real NULL ,
+[FirstStandoff] real NULL ,
+[FirstGuestWin] real NULL ,
+[RealHomeWin] real NULL ,
+[RealStandoff] real NULL ,
+[RealGuestWin] real NULL 
+
+
+)
+
+
+GO
+DBCC CHECKIDENT(N'[dbo].[stock]', RESEED, 399055741)
+GO
+
+-- ----------------------------
+-- Indexes structure for table stock
+-- ----------------------------
+
+-- ----------------------------
+-- Primary Key structure for table stock
+-- ----------------------------
+ALTER TABLE [dbo].[stock] ADD PRIMARY KEY ([ID]) WITH (FILLFACTOR=90)
+GO
